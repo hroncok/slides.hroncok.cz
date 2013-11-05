@@ -1,0 +1,3 @@
+[submodule "LinuxAlt2013"]
+	path = LinuxAlt2013
+	url = git@github.com:3DprintFIT/artwork.git
